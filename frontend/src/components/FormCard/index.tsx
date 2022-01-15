@@ -31,7 +31,7 @@ import './styles.css';
                         <input type="email" className="form-control" id="email" />
                     </div>
                     <div className="form-group dsmovie-form-group">
-                        <label htmlFor="score">Informe sua avaliação</label>
+                        <label htmlFor="score">Informe sua a valiação</label>
                         <select className="form-control" id="score">
                             <option>1</option>
                             <option>2</option>
